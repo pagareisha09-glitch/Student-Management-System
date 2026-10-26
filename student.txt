@@ -7,3 +7,10 @@ Course: AI & DS
 Roll No: 2
 Name: Priya Patil
 Course: Computer Engineering
+Roll No: 3
+Name: Amit Verma
+Course: Information Technology
+
+Roll No: 4
+Name: Neha Singh
+Course: Artificial Intelligence
